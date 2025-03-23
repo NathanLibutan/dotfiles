@@ -68,7 +68,10 @@ alias check_bat='upower -i /org/freedesktop/UPower/devices/battery_BAT0'
 #alias for vim (i'm not typing allat)
 alias v='vim'
 
+#alias for checking ping
+alias checkp='ping google.com'
 #
+
 shopt -s histappend
 
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
