@@ -72,6 +72,11 @@ alias v='vim'
 alias checkp='ping google.com'
 #
 
+#alias for venv environments
+alias venv='source venv/bin/activate'
+
+
+
 shopt -s histappend
 
 # for setting history length see HISTSIZE and HISTFILESIZE in bash(1)
